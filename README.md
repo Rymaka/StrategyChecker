@@ -1,3 +1,3 @@
 # StrategyChecker
 Strategy checker for Rock Scissors 
-it`s pretty shitty `coz made in 20m for tests 
+it is pretty shitty because made in 20m for tests
